@@ -1,0 +1,41 @@
+.video-js{
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.vjs-poster{
+    border-radius: 10px;
+}
+
+.video-js .vjs-big-play-button{
+    background-color: #61CE70;
+   
+}
+
+.vattributes{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0 30px 30px 30px;
+}
+
+.views{
+    margin-top: 12px;
+}
+.divider{
+    margin:"20px 0"
+}
+.areatext{
+    height: 150px;
+    width: 400px;
+    border: 1px solid rgba(0,0,0,0.12);
+    font-size: 16px;
+}
+.textfield{
+    height:30px;
+    width: 200px;
+    border: 1px solid rgba(0,0,0,0.12);
+}
